@@ -1,0 +1,8 @@
+Django==5.0
+djangorestframework==3.14.0
+djangorestframework_simplejwt==5.2.2
+drf_yasg==1.21.7
+rest_framework_simplejwt==0.0.2
+celery
+redis
+Pillow
